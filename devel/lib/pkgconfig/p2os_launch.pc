@@ -1,0 +1,8 @@
+prefix=/home/max/navi_ws/devel
+
+Name: p2os_launch
+Description: Description of p2os_launch
+Version: 2.0.7
+Cflags: 
+Libs: -L/home/max/navi_ws/devel/lib 
+Requires: 

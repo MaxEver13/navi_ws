@@ -1,0 +1,8 @@
+prefix=/home/max/navi_ws/install
+
+Name: p2os_msgs
+Description: Description of p2os_msgs
+Version: 2.0.7
+Cflags: -I/home/max/navi_ws/install/include
+Libs: -L/home/max/navi_ws/install/lib 
+Requires: message_runtime std_msgs

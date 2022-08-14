@@ -1,0 +1,8 @@
+prefix=/home/max/navi_ws/devel
+
+Name: p2os_doc
+Description: Description of p2os_doc
+Version: 2.0.7
+Cflags: 
+Libs: -L/home/max/navi_ws/devel/lib 
+Requires: 

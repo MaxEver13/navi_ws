@@ -1,0 +1,2 @@
+agv_control_msgs:lattice_navigation_demos:lattice_planner:p2os/p2os_doc:p2os/p2os_driver:p2os/p2os_launch:p2os/p2os_msgs:p2os/p2os_teleop:p2os/p2os_urdf:pure_pursuit:smac_planner
+-DCATKIN_DEVEL_PREFIX=/home/max/navi_ws/devel -DCMAKE_INSTALL_PREFIX=/home/max/navi_ws/install -G Unix Makefiles
